@@ -1,5 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Clicker+Script&family=Poppins:wght@200;300;400;500;600;700&display=swap');
-
+.img1{
+    width: 700px;
+    height: 300px;
+}    
+.img{
+    width: 600px;
+    height: 450px;
+}    
+.img2{
+    width: 700px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+} 
+.img3{
+    width: 700px;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
 :root {
     --bg-black-900: #f2f2fc;
     --bg-black-100: #fdf9ff;
